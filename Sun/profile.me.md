@@ -11,3 +11,20 @@
 GRAMMERSとしての名前は[JVM](./profile.gr.md)
 
 ![image](./image.me.png)
+
+
+得意なプログラミング言語
+-----------
+Java
+
+好きなエディタ
+----------
+IntelliJ
+
+好きなクラウド
+-----------
+Google Cloud Platform
+
+好きなデータベース
+-------------
+MySQL
