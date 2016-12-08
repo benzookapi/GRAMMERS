@@ -8,6 +8,6 @@
 
 ケース兄弟と遭遇し、GRAMMERSを発動する。
 
-GRAMMERSとしての名前はJVM
+GRAMMERSとしての名前は[JVM](./profile.gr.md)
 
 ![image](./image.me.png)
