@@ -17,6 +17,10 @@ GRAMMERSとしての名前は[JVM](./profile.gr.md)
 -----------
 Java
 
+好きなフレームワーク
+-----------
+Grasshopper
+
 好きなエディタ
 ----------
 IntelliJ
@@ -27,4 +31,4 @@ Google Cloud Platform
 
 好きなデータベース
 -------------
-MySQL
+PostgreSQL
