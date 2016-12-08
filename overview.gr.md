@@ -17,5 +17,10 @@ GRAMMERSの補強武器　アドオン・プラグイン
 各GRAMMERS専用の武器があり、それらを身につけることで能力がアップする。
 
 
+GRAMMERS 一覧
+--------
+
+
+
 
 * [JVM](./Sun/profile.gr.md)
