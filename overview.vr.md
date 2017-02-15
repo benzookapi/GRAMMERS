@@ -9,3 +9,4 @@ VR Monsters 一覧
 
 
 * [ケース兄弟](./CaseBros/profile.vr.md)
+* [継承おじさん](./InheritMan/profile.vr.md)

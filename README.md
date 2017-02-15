@@ -15,7 +15,9 @@ https://geechs-magazine.com/tag/entertainment/20161012
 
 * [GRAMMERS](./overview.gr.md)
   + [JVM](./Sun/profile.gr.md)
+  + [RoR](./Rail/profile.gr.md)
 
 
 * [VR Monsters](./overview.vr.md)
   + [ケース兄弟](./CaseBros/profile.vr.md)
+  + [継承おじさん](./InheritMan/profile.vr.md)

@@ -24,3 +24,4 @@ GRAMMERS 一覧
 
 
 * [JVM](./Sun/profile.gr.md)
+* [RoR](./Rail/profile.gr.md)
