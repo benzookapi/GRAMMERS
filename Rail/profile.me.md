@@ -10,6 +10,8 @@
 
 サンのケース兄弟との戦いに遭遇し、自身もGRAMMERS [RoR](./profile.gr.md)を発動。
 
+[継承おじさん](../InheritMan/profile.vr.md)に遭遇し攻撃されるもサンのGRAMMERS [JVM](./profile.gr.md)と協力して勝利。
+
 ![image](./image.me.png)
 
 
