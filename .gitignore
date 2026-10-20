@@ -1,6 +1,7 @@
 .DS_Store
 
-# Manuscripts and derived assets are local only.
+# Manuscripts, derived assets, and production tools are local only.
 /_works/
 /output/
 /tmp/
+/tools/
